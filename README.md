@@ -12,7 +12,7 @@
 <p>This Modal is really easy to understand </p>
 
 https://youtu.be/10FNqoPpNbE - Watch the tutorial!
-[react](https://www.youtube.com/watch?v=10FNqoPpNbE)
+[youtube](https://www.youtube.com/watch?v=10FNqoPpNbE)
 
 <br>
 <br>
@@ -57,7 +57,7 @@ https://youtu.be/10FNqoPpNbE - Watch the tutorial!
 <br>
 
 https://reactcommunity.org/react-modal/styles/ - more!
-[youtuve](https://reactcommunity.org/react-modal/styles/)
+[react](https://reactcommunity.org/react-modal/styles/)
 
 <br>
 <br>
