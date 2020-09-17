@@ -12,7 +12,7 @@
 <p>This Modal is really easy to understand </p>
 
 https://youtu.be/10FNqoPpNbE - Watch the tutorial!
-[youtube](https://www.youtube.com/watch?v=10FNqoPpNbE)
+[react](https://www.youtube.com/watch?v=10FNqoPpNbE)
 
 <br>
 <br>
