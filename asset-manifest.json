@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-modal1/static/css/main.5d50a4e3.chunk.css",
+    "main.js": "/react-modal1/static/js/main.68083c55.chunk.js",
+    "main.js.map": "/react-modal1/static/js/main.68083c55.chunk.js.map",
+    "runtime-main.js": "/react-modal1/static/js/runtime-main.b30c7c6c.js",
+    "runtime-main.js.map": "/react-modal1/static/js/runtime-main.b30c7c6c.js.map",
+    "static/js/2.9535d2ae.chunk.js": "/react-modal1/static/js/2.9535d2ae.chunk.js",
+    "static/js/2.9535d2ae.chunk.js.map": "/react-modal1/static/js/2.9535d2ae.chunk.js.map",
+    "index.html": "/react-modal1/index.html",
+    "precache-manifest.9f4c129e2a092e22a4d87943f7540acb.js": "/react-modal1/precache-manifest.9f4c129e2a092e22a4d87943f7540acb.js",
+    "service-worker.js": "/react-modal1/service-worker.js",
+    "static/css/main.5d50a4e3.chunk.css.map": "/react-modal1/static/css/main.5d50a4e3.chunk.css.map",
+    "static/js/2.9535d2ae.chunk.js.LICENSE.txt": "/react-modal1/static/js/2.9535d2ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b30c7c6c.js",
+    "static/js/2.9535d2ae.chunk.js",
+    "static/css/main.5d50a4e3.chunk.css",
+    "static/js/main.68083c55.chunk.js"
+  ]
+}
