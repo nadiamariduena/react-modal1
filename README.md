@@ -5,7 +5,7 @@
 
 <br>
 
-[<img src="./src/img/preview.gif">](https://nadiamariduena.github.io/animated-portfolio-with-intersection-observer/)
+[<img src="./src/img/preview1.gif">](https://nadiamariduena.github.io/animated-portfolio-with-intersection-observer/)
 
 <br>
 <br>
