@@ -1,7 +1,6 @@
 ### CREATING MY FIRST MODAL
 
-#### I ve been looking for a simple modal that adapts to the level i am, and i think this version is the easiest one.
-
+#### I ve been looking for a simple modal and i think this version is the easiest one,as you can also find really cool but a bit difficult with Framer Motion.
 
 <br>
 
@@ -10,13 +9,10 @@
 <br>
 <br>
 
-
-
-
 <p>This Modal is really easy to understand </p>
 
 https://youtu.be/10FNqoPpNbE - Watch the tutorial!
-[youtuve](https://www.youtube.com/watch?v=10FNqoPpNbE)
+[youtube](https://www.youtube.com/watch?v=10FNqoPpNbE)
 
 <br>
 <br>
@@ -56,6 +52,7 @@ https://youtu.be/10FNqoPpNbE - Watch the tutorial!
 
 >
 ```
+
 <br>
 <br>
 
